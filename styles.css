@@ -2,14 +2,12 @@ body {
     
     background-color: whitesmoke;
     font-family: inherit;
-    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0;
     padding: 0;
-    
-            
+    min-height: 100vh;
     }
 
 
@@ -29,8 +27,6 @@ body {
 
 
 .item {
-display: flex;
-justify-content: center;
 text-align: center;
 height:auto;
 font-weight: bold;
@@ -41,21 +37,16 @@ padding: 2px 2px 2px 2px;
 }
         
 .item2 {
-display: flex;
-justify-content: center;
-height: auto;
-text-align: center;
 height: auto;
 font-weight:600;
 border-radius: 15px 15px 15px 15px;
 background-color: white;
 color: #1D3C78;
-padding: 5px 10px 5px 10px;
+padding: 5px 20px 5px 20px;
 box-shadow: 1px 1px 3px 0.3px #1D3C78;
 }
     
 .video {
-    display: flex;
     justify-content: center;
     text-align: center;
     flex-direction: column;
@@ -72,7 +63,6 @@ box-shadow: 1px 1px 3px 0.3px #1D3C78;
     text-decoration: none;
     margin: auto;
     padding: 10px;
-    display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 15px 15px 15px 15px;
