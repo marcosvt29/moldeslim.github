@@ -45,6 +45,24 @@ padding: 5px 20px 5px 20px;
 box-shadow: 1px 1px 3px 0.3px #1D3C78;
 }
     
+.item3 {
+height: auto;
+font-weight:600;
+border-radius: 15px 15px 15px 15px;
+background-color: white;
+color: #1D3C78;
+padding: 5px 20px 5px 20px;
+display: flex;
+align-content: center;
+justify-content: center;
+box-shadow: 1px 1px 3px 0.3px #1D3C78;
+}
+
+
+
+
+
+
 .video {
     display: flex;
     gap: 10px;
@@ -64,8 +82,6 @@ box-shadow: 1px 1px 3px 0.3px #1D3C78;
     text-decoration: none;
     margin: auto;
     padding: 10px;
-    justify-content: center;
-    align-items: center;
     border-radius: 15px 15px 15px 15px;
         
 }
